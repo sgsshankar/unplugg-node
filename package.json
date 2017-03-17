@@ -1,0 +1,32 @@
+{
+  "name": "unplugg",
+  "version": "1.0.0",
+  "description": "nodejs API for unplu.gg",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "unplugg",
+    "unplu.gg",
+    "forcasting"
+  ],
+  "author": {
+    "name": "sgsshankar",
+    "email": "sgsshankarnarayanan@gmail.com",
+    "url": "http://github.com/sgsshankar"
+  },
+  "main": "unplugg.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sgsshankar/unplugg-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sgsshankar/unplugg-node/issues"
+  },
+  "dependencies": {
+    "promise": "^7.0.4",
+    "unirest": "^0.4.2"
+  },
+  "license": "Apache License"
+}
